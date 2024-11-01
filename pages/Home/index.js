@@ -289,7 +289,7 @@ const Home = () => {
         
 
 
-    <section id="about" className="flex flex-col m-auto justify-center items-center px-10 w-[85vw]">
+    <section id="About" className="flex flex-col m-auto justify-center items-center px-10 w-[85vw]">
         <button className="text-white bg-[#2dad5c] rounded-md w-[130px] h-[40px] mt-5 hover:scale-105" onClick={() => router.push("/Announcements")}>Announcements</button>
 
         <div className="w-[80vw]  my-12">
